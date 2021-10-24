@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "gcvn",
+      "email": "gd@gmail.com",
+      "mobile": "7893456234",
+      "address": "fhfgjgvhj",
+      "services": "food"
+    },
+    {
+      "id": 4,
+      "name": "fountain67",
+      "email": "fou@gmail.com",
+      "mobile": "5678123423",
+      "address": "sdghgjmjbmbghg234",
+      "services": "veg food"
+    },
+    {
+      "id": 5,
+      "name": "dkjfgndklhn",
+      "email": "dfjsd@gmail.com",
+      "mobile": "6456666444",
+      "address": "Ramji Mandir faliya,Bodhan",
+      "services": "dgfghbgfbhg"
+    },
+    {
+      "id": 6,
+      "name": "vbvn235",
+      "email": "bb@gmail.com",
+      "mobile": "6782345675",
+      "address": "Ramji Mandir faliya,Bodhan",
+      "services": "bgghmg"
+    },
+    {
+      "id": 7,
+      "name": "fountain",
+      "email": "fl@gmail.com",
+      "mobile": "6782345676",
+      "address": "vbm;mgn",
+      "services": "mbb;fmf"
+    },
+    {
+      "id": 8,
+      "name": "fihfih6",
+      "email": "sds@gmail.com",
+      "mobile": "6789234565",
+      "address": "Ramji Mandir faliya,Bodhan",
+      "services": "f;bfg;lnmgx"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
