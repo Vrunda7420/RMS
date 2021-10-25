@@ -1,52 +1,36 @@
 {
   "posts": [
     {
-      "id": 3,
-      "name": "gcvn",
-      "email": "gd@gmail.com",
-      "mobile": "7893456234",
-      "address": "fhfgjgvhj",
-      "services": "food"
-    },
-    {
-      "id": 4,
-      "name": "fountain67",
+      "id": 1,
+      "name": "Fountain",
       "email": "fou@gmail.com",
-      "mobile": "5678123423",
-      "address": "sdghgjmjbmbghg234",
+      "mobile": "6789234565",
+      "address": "surat",
       "services": "veg food"
     },
     {
-      "id": 5,
-      "name": "dkjfgndklhn",
-      "email": "dfjsd@gmail.com",
-      "mobile": "6456666444",
-      "address": "Ramji Mandir faliya,Bodhan",
-      "services": "dgfghbgfbhg"
+      "id": 2,
+      "name": "Moti Mahal",
+      "email": "mo12@gmail.com",
+      "mobile": "6782345654",
+      "address": "Kamrej",
+      "services": " veg food"
     },
     {
-      "id": 6,
-      "name": "vbvn235",
-      "email": "bb@gmail.com",
-      "mobile": "6782345675",
-      "address": "Ramji Mandir faliya,Bodhan",
-      "services": "bgghmg"
+      "id": 3,
+      "name": "chai shuta bar",
+      "email": "cha12@gmail.com",
+      "mobile": "6783241532",
+      "address": "Bardoli",
+      "services": "tea "
     },
     {
-      "id": 7,
-      "name": "fountain",
-      "email": "fl@gmail.com",
-      "mobile": "6782345676",
-      "address": "vbm;mgn",
-      "services": "mbb;fmf"
-    },
-    {
-      "id": 8,
-      "name": "fihfih6",
-      "email": "sds@gmail.com",
-      "mobile": "6789234565",
-      "address": "Ramji Mandir faliya,Bodhan",
-      "services": "f;bfg;lnmgx"
+      "id": 4,
+      "name": "dvvd",
+      "email": "sdfs@gmail.com",
+      "mobile": "5678234565",
+      "address": "gnvnm",
+      "services": "gbvnhv"
     }
   ],
   "comments": [],

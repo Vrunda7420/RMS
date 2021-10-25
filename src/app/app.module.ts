@@ -6,9 +6,11 @@ import { AppComponent } from './app.component';
 import {RestoModule} from './resto/resto.module';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+   
   ],
   imports: [
     BrowserModule,

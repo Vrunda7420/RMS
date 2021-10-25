@@ -17,6 +17,8 @@ export class HomeComponent implements OnInit {
   id!:number;
   showAdd!: boolean;
   showbtn!: boolean;
+  searchValue!: string;
+  name!: any;
 
   constructor(public restoService:RestoService,private router: Router) { }
 
@@ -101,4 +103,14 @@ export class HomeComponent implements OnInit {
     })
   }
 
+
+  search(){
+    if(this.name==""){
+      this.ngOnInit();
+    }else{
+      this.resto = this.resto.filter(res =>{
+        return res.name.toLocaleLowerCase().match(this.name.toLocaleLowerCase());
+      });
+    }
+  }
 }

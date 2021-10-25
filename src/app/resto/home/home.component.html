@@ -1,21 +1,24 @@
 
-<nav class="navbar navbar-light  bg-primary">
+<nav class="navbar navbar-light  bg-black">
     <div class="container-fluid">
-        <h2>Restaurent Record App</h2>
+        <h2>Restaurant Record Management</h2>
         <div class="d-flex">
             <button (click)="clickAddResto()" type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">Add Restaurent</button>
         </div>
     </div>
 </nav>
 <!--Jumbotron-->
-<div class="p-1 mb-4 bg-light rounded-3">
-    <div class="container-fluid py-5">
-        <h1 class="display-5 fw-bold">Restaurent Record Management</h1>
+<div class="p-1 mb-2 rounded-3">
+    <div class="container-fluid">
+        <img src="../../assets/img.jpg" height="500px" width="1300px">&nbsp;
     </div>
 </div>
 <!--close Jumbotron-->
+<nav class="navbar">
+  <input class="form-control" type="text" name="name" [(ngModel)]="name" (ngModelChange)="search()" placeholder="Enter Name to search">  
+</nav>
 <!--Table Showns here-->
-<table class="table mt-4">
+<table class="table bg-black">
     <thead>
         <tr>
             <th scope="col">Restaurent Id</th>
